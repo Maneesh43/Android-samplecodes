@@ -1,5 +1,5 @@
+//Viewpager2 with Fragment pager adapter
 package com.maneesh.exercisetabbedlayouts;
-
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.ActionBar;
 import androidx.appcompat.app.AppCompatActivity;
